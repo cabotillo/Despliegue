@@ -6,6 +6,10 @@
 	</head>
 	<body>
 		<h1>Despliegue de aplicaciones LAMP</h1>
+		<h1>Despliegue de aplicaciones LAMP</h1>
+		<h1>Despliegue de aplicaciones LAMP</h1>
+		<h1>Despliegue de aplicaciones LAMP</h1>
+		<h1>Despliegue de aplicaciones LAMP</h1>
 		<?php
 			phpinfo();
 		?>
